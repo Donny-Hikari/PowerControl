@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PowerControl", "PowerControl\PowerControl.vcxproj", "{19AEF112-03ED-4F56-A167-206FA4986E05}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DonnyLib", "..\..\[ ComLib ]\DonnyLib\DonnyLib\DonnyLib.vcxproj", "{3E99C0AF-B6E6-4353-8FE6-1C4D309C7989}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19AEF112-03ED-4F56-A167-206FA4986E05}.Debug|Win32.ActiveCfg = Debug|Win32
+		{19AEF112-03ED-4F56-A167-206FA4986E05}.Debug|Win32.Build.0 = Debug|Win32
+		{19AEF112-03ED-4F56-A167-206FA4986E05}.Release|Win32.ActiveCfg = Release|Win32
+		{19AEF112-03ED-4F56-A167-206FA4986E05}.Release|Win32.Build.0 = Release|Win32
+		{3E99C0AF-B6E6-4353-8FE6-1C4D309C7989}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3E99C0AF-B6E6-4353-8FE6-1C4D309C7989}.Debug|Win32.Build.0 = Debug|Win32
+		{3E99C0AF-B6E6-4353-8FE6-1C4D309C7989}.Release|Win32.ActiveCfg = Release|Win32
+		{3E99C0AF-B6E6-4353-8FE6-1C4D309C7989}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

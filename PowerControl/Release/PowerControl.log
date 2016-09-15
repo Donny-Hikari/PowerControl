@@ -1,0 +1,2 @@
+﻿  PowerControl.cpp
+LINK : fatal error LNK1104: 無法開啟檔案 'E:\Common\C++\[ Tools ]\PowerControl\Release\PowerControl.exe'
