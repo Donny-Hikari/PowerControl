@@ -90,12 +90,21 @@
     <ResourceCompile Include="PowerControl.rc" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="ICON\Cancel.png" />
+    <Image Include="ICON\Restart.png" />
+    <Image Include="ICON\Shutdown.png" />
+    <Image Include="ICON\Sleep.png" />
     <Image Include="New Icon\Cancel.png" />
     <Image Include="New Icon\Restart.png" />
     <Image Include="New Icon\Shutdown.png" />
     <Image Include="New Icon\Sleep.png" />
     <Image Include="PowerControl.ico" />
     <Image Include="Small.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\C++\[ ComLib ]\DonnyLib\DonnyLib\DonnyLib.vcxproj">
+      <Project>{3e99c0af-b6e6-4353-8fe6-1c4d309c7989}</Project>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

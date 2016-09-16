@@ -57,5 +57,17 @@
     <Image Include="New Icon\Sleep.png">
       <Filter>資源檔</Filter>
     </Image>
+    <Image Include="ICON\Shutdown.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="ICON\Restart.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="ICON\Sleep.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="ICON\Cancel.png">
+      <Filter>資源檔</Filter>
+    </Image>
   </ItemGroup>
 </Project>
