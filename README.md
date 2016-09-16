@@ -1,5 +1,7 @@
 #Power Control
 
+![Poster](/docs/Poster.jpg "Power Control")
+
 ##Overview
 Shutdown or restart the computer in a easy and elegant way.
 
