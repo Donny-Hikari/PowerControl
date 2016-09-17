@@ -1,0 +1,6 @@
+{
+  "name": "Powercontrol",
+  "tagline": "Shutdown or restart the computer in a easy and elegant way.",
+  "body": "#Power Control\r\n\r\n![Poster](https://raw.githubusercontent.com/Donny-Hikari/PowerControl/master/docs/Poster%20v0.1.2.jpg \"Power Control\")\r\n\r\n##Overview\r\nShutdown or restart the computer in a easy and elegant way.\r\n\r\n##How to Use\r\n1. Hold Shift to see the advance menu.\r\n2. Use hotkey Ctrl+Alt+Shift+P to show or hide the Power Control Widows.\r\n3. Press ESC to exit the program.\r\n\r\n##About\r\nBy Donny, started in 2015\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
